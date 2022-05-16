@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 5.0 (Python 3.7.5 on win32)" generated="20220514 10:29:13.351" rpa="false" schemaversion="3">
+<suite id="s1" name="Robot Interactive Console" source="c:\Users\ramos\.vscode\extensions\robocorp.robotframework-lsp-0.47.2\src\robotframework_ls\vendored\robotframework_interactive\robot_interactive_console.robot">
+<test id="s1-t1" name="Default Task/Test" line="5">
+<kw name="Interpreter Main Loop" library="MainLoop">
+<kw name="Open the intranet website">
+<msg timestamp="20220514 10:29:15.207" level="FAIL">No keyword with name 'Open the intranet website' found.</msg>
+<status status="FAIL" starttime="20220514 10:29:15.207" endtime="20220514 10:29:15.207"/>
+</kw>
+<kw name="Download the order excel file">
+<status status="NOT RUN" starttime="20220514 10:29:15.214" endtime="20220514 10:29:15.214"/>
+</kw>
+<kw name="Fill the form using the data from the csv file">
+<status status="NOT RUN" starttime="20220514 10:29:15.220" endtime="20220514 10:29:15.220"/>
+</kw>
+<kw name="Create ZIP package from PDF files">
+<status status="NOT RUN" starttime="20220514 10:29:15.229" endtime="20220514 10:29:15.230"/>
+</kw>
+<status status="PASS" starttime="20220514 10:29:13.498" endtime="20220514 10:29:36.482"/>
+</kw>
+<status status="PASS" starttime="20220514 10:29:13.482" endtime="20220514 10:29:36.486"/>
+</test>
+<status status="PASS" starttime="20220514 10:29:13.351" endtime="20220514 10:29:36.490"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Robot Interactive Console">Robot Interactive Console</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
